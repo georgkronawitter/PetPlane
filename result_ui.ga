@@ -1,0 +1,5 @@
+get results
+for each results
+	find airline name
+	lookup airline name in policy_database, get faq_link,
+	add link to policy_database.faq, icon

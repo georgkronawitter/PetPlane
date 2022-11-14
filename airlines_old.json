@@ -1,0 +1,10 @@
+[{"id": 1,
+"iata": "LH",
+"faqurl":"http://www.google.com",
+"passages":["below 5","certified assistance"]},
+{
+"id":2,
+"iata":"A3",
+"faqurl":"http://www.google.com",
+"passages":["not allowed"]
+}]
