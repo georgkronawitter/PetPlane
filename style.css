@@ -1,0 +1,89 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Helvetica", Sans-Serif;
+	color: #FFFCFF;
+	background-color: #759FBC;
+	font-size: 12pt;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #F0F9FF;
+}
+
+.logbox {
+	font-size: 8pt;
+	color: #603030;
+	border: 1px black;
+}
+
+#log { 
+    height: 40px; 
+    position: fixed; 
+    bottom:0%;
+    width:100%; 
+    background-color: #393838; 
+    opacity: 1;
+    overflow: auto;
+}
+
+.button {
+	background-color: #FFC2B4;
+}
+
+form, label, input, date {
+	font-family: "Cardana","Helvetica";
+	margin: 5px;
+	padding: 10px;
+	border: 0px;
+}
+
+.logo {
+	color: #A51C30;
+	font-family:"Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-weight: bold;
+	font-size: 280%;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+.search {
+	margin: 0px;
+	margin-bottom: 20px;
+	background-color: #FE5F55;
+	color: #EEF5DB;
+	padding-top: 30px;
+	padding-left: 15%;
+}
+.result {
+	margin-bottom: 20px;
+	padding-left: 15%;
+	padding-right: 20%;
+}
+
+.price {
+	font: "Tahoma";
+	font-size: 180%;
+	font-style: italic;
+	font-weight: bold;
+	float: left;
+}
+
+.petpolicydb{
+	margin-left: 20px;
+	padding:2px;
+	font-family: "Helvetica";
+	font-weight: bold;
+}
+
+.flightdetails{
+	padding-top: 8px;
+}
+
+.petpolicyopenai{
+	margin-left: 20px;
+	padding:2px;
+	font-family: "Gill Sans Extrabold", Sans-Serif;
+	font-size: 90%;
+}
